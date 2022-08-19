@@ -465,6 +465,10 @@ b, strong {
   color: #ffc200;
 }
 
+.about-image img {
+  border-radius: 15%;
+}
+
 @media (min-width: 1270px) {
   .owl-theme .owl-dots {
     position: relative;
